@@ -41,11 +41,13 @@ Some of the visualizations included in this project:
 - 📌 Regional Bar Chart → Regional comparison of sales and profitability.  
 - 📌 Trend Line Chart → Monthly/seasonal sales performance.
 
-  🔮 Future Enhancements
+
+🔮 Future Enhancements
 - Add predictive modeling to forecast future sales.  
 - Build an interactive dashboard (Power BI / Tableau).  
 - Expand the dataset for competitor analysis.  
 - Automate reporting for real-time insights
+  
 
  ✅ Conclusion
 
